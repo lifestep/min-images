@@ -1,0 +1,2 @@
+# min-images
+Compress Pictures
